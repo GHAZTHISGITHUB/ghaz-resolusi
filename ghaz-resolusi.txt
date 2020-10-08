@@ -13,3 +13,4 @@ GHAZ Resoluis
 - wkwkwkwwwwwwwww
 - ini di tambah sama bagian n0 1 
 - tambahkan bagian 1
+- tambahan lagi biar commitnya ada 2
