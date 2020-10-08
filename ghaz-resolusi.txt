@@ -11,5 +11,6 @@ GHAZ Resoluis
 - wkwkwkwwwwwwwww
 - wwkwwkkwkwkwkw
 - wkwkwkwwwwwwwww
-- ini bagian 2 di tambahkan apa wee bebas
-- ini mah commitnya 1 aja
+- ini di tambah sama bagian n0 1 
+- tambahkan bagian 1
+- tambahan lagi biar commitnya ada 2
