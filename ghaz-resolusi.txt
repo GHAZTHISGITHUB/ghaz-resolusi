@@ -20,5 +20,10 @@ GHAZ Resoluis
 - conflict
 =======
 - naona da aya 30 commit aku juga baru tahu wkwkkwwk
+<<<<<<< HEAD
 - semoga conflict bismillah
 >>>>>>> 1a454ecdba0d6fe3a9bf045b09e5495b8792f85c
+=======
+- semoga commit nya wdasdafaf conflict
+-ini harus conflict
+>>>>>>> d2bcdbb... conflict
